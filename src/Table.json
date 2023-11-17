@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1001,
+    "Name": "jyothi",
+    "email": "jo@gmail.com",
+    "phone": "9087654321"
+  },
+  {
+    "ID": 1002,
+    "Name": "kim taehyung",
+    "email": "jokim@gmail.com",
+    "phone": "9087654321"
+  },
+  {
+    "ID": 1003,
+    "Name": "abishek",
+    "email": "abi@gmail.com",
+    "phone": "9087654321"
+  },
+  {
+    "ID": 1004,
+    "Name": "kavya",
+    "email": "kav@gmail.com",
+    "phone": "9087654321"
+  }
+]
